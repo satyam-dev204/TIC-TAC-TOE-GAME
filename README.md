@@ -1,4 +1,4 @@
 # TIC-TAC-TOE-GAME
-This is my first mini project on tic-tac-toe game.
+This is my first project.
 <br>
-This game is a two person game.
+Project is on a two player game, tic-tac-toe.
