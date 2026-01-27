@@ -83,9 +83,9 @@ boxes.forEach((box)=>{
             box.textContent="X";
         }
         box.disabled=true;
+        count++;
         draw();
         checkWinner(); 
-        count++;
     })
 });
 
@@ -106,7 +106,6 @@ newBtn.addEventListener("click",()=>{
         box.textContent="";
     })
 })
-
 
 
 
